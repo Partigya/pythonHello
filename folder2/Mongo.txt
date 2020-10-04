@@ -1,1 +1,1 @@
-Mongo is mongo
+Mongo is mongo. It is a NoSql Repo.
