@@ -1,3 +1,2 @@
-Hi Kg,
-
-You are genious.
+Mongo is mongo. It is a NoSql Repo.
+Used for non relational data 
